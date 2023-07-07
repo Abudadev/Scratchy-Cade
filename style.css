@@ -1,0 +1,134 @@
+#Basic-information{
+    font-size: 25px;
+    border-style: dashed;
+    border-radius: 30px;
+    border-color: dodgerblue;
+    background-color: lightpink;
+}
+
+#one{
+    margin-left: 20px;
+}
+
+#Games img{
+    width: 200px;
+}
+
+#click{
+    height: 150px;
+}
+
+#timer{
+    margin-left: 500px;
+    position: absolute;
+    position: fixed;
+    background-color: lightpink;
+}
+
+.Games {
+	float:left;
+    margin:10px;
+}
+
+#one1 {
+ width: 300px;
+ height: 150px;   
+}
+
+#o{
+    width: 200px ;
+    height: 150px;
+}
+
+.Games1{
+    background-color: lightseagreen;
+    border-style: ridge;
+    border-width: 15px;
+}
+
+#Shortcuts{
+    position: absolute;
+    position: fixed;
+    background-color:white;
+    font-family: monospace;
+
+}
+
+#Shortcuts li{
+    float: left;
+    list-style: none;
+    margin: 5px;
+    font-size: x-large;
+}
+
+#koko{
+    border-style:ridge;
+    border-color: black;
+    color: rgb(255, 72, 0);
+    background-color: aqua;
+    font-family: Impact;
+}
+
+.updates{
+    border-radius: 10px;
+}
+
+#Updates{
+    background-color: lightpink;
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+.webnews{
+    border-radius: 10px;
+}
+
+#Web_News{
+    background-color: lightpink;
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+.ok5{
+    font-family: Impact;
+}
+
+#Tutorials1 iframe{
+    margin-left:10px;
+    border-radius: 10px;
+}
+
+.current_updates{
+    border-radius: 10px;
+}
+
+#Current_Updates{
+    background-color: lightpink;
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+.Games{
+    background-color: lightgreen;
+    margin-left: 15px;
+    border-radius: 5px;
+    border-style: groove;
+    font-family: Impact;
+}
+
+.Games1{
+    font-family: impact;
+}
+
+
+#info{
+    background-color:black;
+    color: rgb(7, 180, 157);
+    font-family: Impact;
+    border-style: dashed;
+    border-radius: 5px;
+}
+
+#info li{
+    font-size: 16px;
+}
